@@ -61,23 +61,15 @@ Decision-Trees-Random-Forest/
 
 ![FICO Credit Policy](visualizations/fico_credit_policy.png)
 
-#### 🔹 FICO Distribution (not.fully.paid)
+#### 🔹 Loan Distribution (not.fully.paid)
 
-![FICO Not Paid](visualizations/fico_not_paid.png)
+![FICO Not Paid](visualizations/not_paid.png)
 
-#### 🔹 Loan Purpose Countplot
-
-![Purpose Countplot](visualizations/purpose_countplot.png)
 
 #### 🔹 FICO vs Interest Rate
 
 ![FICO vs Interest](visualizations/fico_interest.png)
 
-#### 🔹 Trend Analysis
-
-![Trend Comparison](visualizations/trend_comparison.png)
-
----
 
 ## 🤖 Model Training
 
